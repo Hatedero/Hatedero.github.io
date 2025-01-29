@@ -1,1 +1,0 @@
-<p> DISCLAIMER : this website is simply a front page to showcase my web development and design skills, thus it doesn't include a back-end part.</p> 
